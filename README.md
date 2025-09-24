@@ -1,4 +1,4 @@
-# Hotel Reservation System
+# Hotel Reservation System in C++
 
 ## Description
 A console-based hotel management application designed to help hotel owners efficiently manage room bookings and customer records, while providing customers with an easy way to order food. This system features separate login portals for owners and customers, enabling secure access to relevant functionalities.
